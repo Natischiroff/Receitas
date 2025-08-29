@@ -1,3 +1,6 @@
 body{
     background-color: rgb(192, 157, 113);
 }
+.chamada{
+    display: flex;
+    justify-content: center;}
